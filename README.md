@@ -16,14 +16,14 @@ After submitting the values, triangle tracker takes the lengths of three sides a
 
 ## BDD specifications
 #### User input
-*Determines if 3 sides create a valid triangle. 
-*Determines if 3 sides make an Equilateral triangle. 
-*Determines if 3 sides make an Isosceles triangle. 
-*Determines if 3 sides make a Scalene triangle. 
+* Determines if 3 sides create a valid triangle.
+* Determines if 3 sides make an Equilateral triangle.
+* Determines if 3 sides make an Isosceles triangle. 
+* Determines if 3 sides make a Scalene triangle. 
 #### Result
-*Displays the triangle type for a valid triangle inputs.
+* Displays the triangle type for a valid triangle inputs.
 or
-*Displays Not a triangle at all for non-valid triangle entries.
+* Displays Not a triangle at all for non-valid triangle entries.
 
 ## Getting Started
 
