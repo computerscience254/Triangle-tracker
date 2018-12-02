@@ -26,7 +26,7 @@ From the user inputs, the Triangle tracker:
 
 or
 
-* Displays Not a triangle at all for non-valid triangle entries.
+* Displays Not a triangle at all for non-valid triangle inputs.
 
 ## Getting Started
 
