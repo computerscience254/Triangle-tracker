@@ -22,7 +22,9 @@ After submitting the values, triangle tracker takes the lengths of three sides a
 * Determines if 3 sides make a Scalene triangle. 
 #### Result
 * Displays the triangle type for a valid triangle inputs.
+
 or
+
 * Displays Not a triangle at all for non-valid triangle entries.
 
 ## Getting Started
