@@ -3,12 +3,12 @@
 
 <head>
     <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <script src="js/scripts.js"></script>
     <title>Dan's Triangle tracker</title>
 </head>
 
 <body>
     <div class="header">
-
         <span style="float:center;">
         <i>Triangle tracker</i>
       </span>
@@ -17,33 +17,16 @@
         <div class="main">
             <div class="borderindex">
                 <div align="center">
-                    <h3 style="margin-top: 30px;">
-                    </h3>
-                    <form style="margin-top: 10px;">
-                        <table>
-                            <trstyle="margin-top: 30px;">
-                                <td>Enter first side:</td>
-                                <td><input name="Name" type="text"></td>
-                                <br>
-                                </tr>
-                                <tr style="margin-top: 30px;">
-                                    <td>Enter second side:</td>
-                                    <td><input name="Name" type="text" </td>
-                                </tr>
-                                <tr>
-                                    <td style="margin-top: 30px;">Enter third side:</td>
-                                    <td><input name="Name" type="text" </td>
-                                </tr>
-
-                                <tr>
-                                    <td style="margin-top: 30px;">The result:</td>
-                                    <td><input name="Name" type="text" </td>
-                                </tr>
-                        </table>
+                    <form style="margin-top: 100px;">
+                        <input name="Name" id="side1" type="text" value="" placeholder="Enter first side">
+                        <input name="Name" id="side2" type="text" value="" placeholder="Enter second side">
+                        <input name="Name" id="side3" type="text" value="" placeholder="Enter third side">
+                        <div>
+                            <button onclick="tracker()" style="margin-top: 50px;" class="result" type="submit">Result</button>
+                        </div>
                     </form>
                 </div>
             </div>
-
         </div>
     </div>
     <div class="footer">

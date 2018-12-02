@@ -3,16 +3,6 @@
     margin: 0px;
 }
 
-.header {
-    color: white;
-    background-color: rgba(0, 0, 0, 0.3);
-    text-align: center;
-    padding: 5px;
-    font-size: 60px;
-    position: relative;
-    height: 100px;
-}
-
 html,
 body {
     height: 100%;
@@ -40,24 +30,9 @@ body {
     clear: both;
 }
 
-body {
-    background-image: url(../images/bg1.jpeg);
-}
-
-.borderindex {
-    width: 600px;
-    margin: auto;
-    height: 600px;
-    border: 3px solid orange;
-    background-color: white;
-    text-align: center;
-    color: black;
-}
-
 .column {
     column-count: 3;
     border: 2px solid white;
-    ;
     padding: 10px;
     margin: 2px;
     display: block;
@@ -67,4 +42,56 @@ body {
     text-align: center;
     padding: 5px;
     font-size: 20px;
+}
+
+.header {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.3);
+    text-align: center;
+    padding: 5px;
+    font-size: 60px;
+    position: relative;
+    height: 100px;
+}
+
+body {
+    background-image: url(../images/dann.jpg);
+    background-size: cover;
+}
+
+.borderindex {
+    width: 600px;
+    margin: auto;
+    height: 600px;
+    border: 10px solid blue;
+    background-image: url(../images/pattern.jpg);
+    text-align: center;
+    color: black;
+}
+
+.result {
+    width: 80px;
+    margin: auto;
+    height: 40px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    border-radius: 10px;
+    border: 3px solid blue;
+}
+
+form {
+    margin: 20px auto;
+    width: 350px;
+}
+
+input {
+    display: block;
+    margin-bottom: 25px;
+    width: 200px;
+    height: 40px;
+    font-size: 15px;
+    border: 3px solid blue;
+    text-align: center;
 }
