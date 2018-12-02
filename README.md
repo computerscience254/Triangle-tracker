@@ -72,9 +72,9 @@ Open your terminal to a specific directory for example Desktop
 
 A folder by the name portfolio1 appears on your desktop
 
-Open the folder and click on the index.html file. Open the file on your browser and you'll view Dan's portfolio.
+Open the folder and click on the index.html file. Open the file on your browser and you'll view Triangle tracker project.
 
-## How to edit the Dan's Portfolio
+## How to edit the Triangle tracker project
 
 Open your terminal
 
@@ -86,7 +86,7 @@ Open your terminal
 
 The MIT License (MIT)
 
-Copyright (c) 2018 -present - Dan's Portfolio - All Rights Reserved
+Copyright (c) 2018 -present - Triangle tracker project - All Rights Reserved
 
 ## Acknowledgments
 
