@@ -1,6 +1,7 @@
 ## Author
 
-Dancun Manyinsa - Triangle tracker project - To get access to Dan's Triangle tracker click on this [link](https://dancunmanyinsa.github.io/portfolio1/)
+Dancun Manyinsa - Triangle tracker project - To get access to Dan's Triangle tracker click on this [link](https://dancunmanyinsa.github.io/Triangle-tracker/)
+
 I'm a Python enthusiast intrested in AI and Cybersecurity. You can get in contact with me through my email at dancunmanyinsait@gmail.com
 
 ## Triangle tracker project
@@ -20,9 +21,9 @@ After submitting the values, triangle tracker takes the lengths of three sides a
 *Determines if 3 sides make an Isosceles triangle. 
 *Determines if 3 sides make a Scalene triangle. 
 #### Result
-Displays the triangle type for a valid triangle inputs.
+*Displays the triangle type for a valid triangle inputs.
 or
-Displays Not a triangle at all for non-valid triangle entries.
+*Displays Not a triangle at all for non-valid triangle entries.
 
 ## Getting Started
 
