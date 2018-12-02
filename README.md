@@ -36,11 +36,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 These are the softwares needed to execute the project: 
 
-IDEs include either: Atom, VS Code, Brackets.
-
-Browsers include either: Google Chrome, Mozilla Firefox.
-
-Operating System either: Linux Operating System, Apple macOS, Microsoft Windows.
+* IDEs include either: Atom, VS Code, Brackets.
+* Browsers include either: Google Chrome, Mozilla Firefox.
+* Operating System either: Linux Operating System, Apple macOS, Microsoft Windows.
 
 ## Installing
 
