@@ -62,7 +62,7 @@ Install Atom's dependencies if they are missing
 
 ```sudo apt-get -f install```
 
-## How to view the Dan's Portfolio
+## How to view the Triangle tracker project
 
 Open your terminal to a specific directory for example Desktop
 
@@ -70,7 +70,7 @@ Open your terminal to a specific directory for example Desktop
 
 ```git clone https://github.com/DancunManyinsa/Triangle-tracker.git```
 
-A folder by the name portfolio1 appears on your desktop
+A folder by the name Triangle tracker appears on your desktop
 
 Open the folder and click on the index.html file. Open the file on your browser and you'll view Triangle tracker project.
 
