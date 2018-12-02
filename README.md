@@ -15,7 +15,8 @@ After submitting the values, triangle tracker takes the lengths of three sides a
 4. Most importantly, if the sum of any two sides of the triangle is equal to or less than the third remaining side, then a triangle CANNOT be formed using those values. (For example, the values 9,4 & 3 cannot form a triangle.)
 
 ## BDD specifications
-#### User input
+#### User inputs
+From the user inputs, the Triangle tracker:
 * Determines if 3 sides create a valid triangle.
 * Determines if 3 sides make an Equilateral triangle.
 * Determines if 3 sides make an Isosceles triangle. 
