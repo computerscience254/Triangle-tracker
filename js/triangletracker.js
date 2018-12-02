@@ -1,4 +1,4 @@
-function tracke() {
+function tracker() {
     var sides = [];
     sides.push(document.getElementById("side1").value);
     sides.push(document.getElementById("side2").value);
