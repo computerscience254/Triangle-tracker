@@ -1,6 +1,6 @@
-![image]()
-## Author
+![Image](https://github.com/DancunManyinsa/Triangle-tracker/blob/master/images/screen.png)
 
+## Author
 Dancun Manyinsa - Triangle tracker project - To get access to Triangle tracker project click on this [link](https://dancunmanyinsa.github.io/Triangle-tracker/)
 
 I'm a Python enthusiast intrested in AI and Cybersecurity. You can get in contact with me through my email at dancunmanyinsait@gmail.com
