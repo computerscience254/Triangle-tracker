@@ -3,35 +3,27 @@
 
 <head>
     <link href="css/style.css" rel="stylesheet" type="text/css" />
-    <script src="js/scripts.js"></script>
     <title>Dan's Triangle tracker</title>
 </head>
 
 <body>
     <div class="header">
         <span style="float:center;">
-        <i>Triangle tracker</i>
-      </span>
+          <i>Triangle tracker</i>
+        </span>
     </div>
-    <div class="container">
-        <div class="main">
-            <div class="borderindex">
-                <div align="center">
-                    <form style="margin-top: 100px;">
-                        <input name="Name" id="side1" type="number" value="" placeholder="Enter first side">
-                        <input name="Name" id="side2" type="number" value="" placeholder="Enter second side">
-                        <input name="Name" id="side3" type="number" value="" placeholder="Enter third side">
-                        <div>
-                            <button onclick="tracker()" class="result" type="submit">Result</button>
-                            <button onclick="reset()" class="reset" type="submit">Reset</button>
-                        </div>
-                        <input style="margin-top: 30px;" name="Name" id="dispaly" type="text" value="" placeholder="">
-
-                    </form>
-                    <div class="panel panel-default">
-                        <div class="panel-body output">
-
-                        </div>
+    <div class="borderindex" style="margin-top: 50px;">
+        <div class="container">
+            <div class="main">
+                <div align="centre" class="content">
+                    <input name="Name" id="idside1" type="text" value="" placeholder="Enter first side">
+                    <input name="Name" id="idside2" type="text" value="" placeholder="Enter second side">
+                    <input name="Name" id="idside3" type="text" value="" placeholder="Enter third side">
+                    <button onclick="tracker()" class="result" value="Submit" type="button">Result</button>
+                    <button onclick="reset()" class="reset" value="Reset" type="button">Reset</button>
+                    <div class="answer">
+                        <p id="display"> </p>
+                        <script src="js/triangle.js"></script>
                     </div>
                 </div>
             </div>
@@ -43,7 +35,6 @@
             <p>Copyright 2018. Triangle tracker. All Rights Reserved.</p>
         </div>
     </div>
-
 </body>
 
 </html>
