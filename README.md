@@ -6,8 +6,8 @@ Dancun Manyinsa - Triangle tracker project - To get access to Triangle tracker p
 I'm a Python enthusiast intrested in AI and Cybersecurity. You can get in contact with me through my email at dancunmanyinsait@gmail.com
 
 ## Triangle tracker project
-Triangle tracker application prompts the enter the length values of the three sides of a triangle.
-After submitting the values, triangle tracker takes the lengths of three sides and determines if they form a valid triangle. It determines whether it's an isosceles, equilateral, scalene or NO triangle at all.
+Triangle tracker application prompts the user to enter the length values of the three sides of a triangle.
+After submitting the values, triangle tracker takes the lengths of three sides and determines if they form a valid triangle. It then determines whether it's an isosceles, equilateral, scalene or NO triangle at all.
 
 ##  Project requirements
 1. For an equilateral triangle, all sides must be equal.
