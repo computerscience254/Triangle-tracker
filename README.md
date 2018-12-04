@@ -23,7 +23,7 @@ From the user inputs, the Triangle tracker:
 * Determines if 3 sides make an Isosceles triangle. 
 * Determines if 3 sides make a Scalene triangle. 
 #### Result
-* Displays the triangle type for a valid triangle inputs.
+* Displays the triangle type for valid triangle inputs.
 
 or
 
