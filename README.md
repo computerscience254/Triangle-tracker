@@ -1,4 +1,4 @@
-![Image](https://github.com/DancunManyinsa/Triangle-tracker/blob/master/images/screen.png)
+![Image](https://github.com/DancunManyinsa/Triangle-tracker/blob/gh-pages/images/Screenshot.png)
 
 ## Author
 Dancun Manyinsa - Triangle tracker project - To get access to Triangle tracker project click on this [link](https://dancunmanyinsa.github.io/Triangle-tracker/)
