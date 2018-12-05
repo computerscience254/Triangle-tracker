@@ -7,7 +7,7 @@ I'm a Python enthusiast intrested in AI and Cybersecurity. You can get in contac
 
 ## Triangle tracker project
 Triangle tracker application prompts the user to enter the length values of the three sides of a triangle.
-After submitting the values, triangle tracker takes the lengths of three sides and determines if they form a valid triangle. It then determines whether it's an isosceles, equilateral, scalene or NO triangle at all.
+After submitting the values, triangle tracker takes the lengths of three sides and determines if they form a valid triangle. It then determines whether it's an isosceles, equilateral, scalene or Not triangle at all.
 
 ##  Project requirements
 1. For an equilateral triangle, all sides must be equal.
