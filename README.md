@@ -17,16 +17,6 @@ After submitting the values, triangle tracker takes the lengths of three sides a
 
 ## BDD specifications
 
-Given I visit <site>
-When I enter <search_str>
-Then I see at least 1 result
-
-Examples:
-| site           | search_str     |
-| google.com     | pierce brosnan |
-| jeeves.com     | matt leblank   |
-| duckduckgo.com | jeff goldblum  |
-
 #### User inputs
 From the user inputs, the Triangle tracker:
 * Determines if 3 sides create a valid triangle.
