@@ -14,7 +14,7 @@ Fundi application achieves the following tasks:
 
 | Behaviour          | Input        |    Result                                         |
 |--------------------|---------------------------------------------|----------------------------------------|
-| Books artisans.  | User gives details of service  needed. |     Artisan(s) booked by the user.              | 
+| Books artisan.  | User gives details of service  needed. |     Artisan booked by the user.              | 
 | Checks reviews.  | Verifies reviews of artisans.              |   Displays reviews of artisans.             |  
 
 ## Getting Started
