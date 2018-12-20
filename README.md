@@ -97,4 +97,4 @@ THE SOFTWARE.
 
 ## Acknowledgments
 
-Ron,Watibini,Dan,Lorna,Ivy
+Fundi Developers Team.
