@@ -98,3 +98,9 @@ THE SOFTWARE.
 ## Acknowledgments
 
 Fundi Developers Team.
+
+* Ron Onyonka
+* Lorn Wanjiku
+* Dancun Manyinsa
+* Ivy Nzioka
+* David Makhanu
